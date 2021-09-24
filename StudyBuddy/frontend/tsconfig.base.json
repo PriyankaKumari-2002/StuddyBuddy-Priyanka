@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@thoth": ["./src"],
+      "@thoth/*": ["./src/*"]
+    }
+  }
+}
